@@ -17,7 +17,7 @@ A simple and responsive login page built using HTML and CSS.
 2. Open `index.html` in any web browser
 
 ## Live Demo
-https://YOUR-USERNAME.github.io/login-page-ui/
+https://eclipse-engineer.github.io/login_page-ui/
 
 ## Screenshot
 ![Login Page](screenshot.png)
